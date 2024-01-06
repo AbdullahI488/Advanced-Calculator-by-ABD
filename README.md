@@ -1,2 +1,2 @@
 # Advanced-Calculator-by-ABD
-Advance calculator made by yours truly. Read README
+It has all the functions you need including basic operators as well as the ability to take square roots and powers (Do note that the square root button should be pressed after the desired input in order to get the sqrt of said input i.e 36√ outputs 6. It has brackets and can do complex lengthy calculations. it uses the eval function and makes use of 1D array and loop. the code is efficient and works flawlessly.
