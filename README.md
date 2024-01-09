@@ -28,7 +28,7 @@ cd Advanced-Calculator-by-ABD
 ```
 3. Run the Python script:
 ```bash
-python calculatorr.py
+python calculatorrr.py
 ```
 
 ## Usage
